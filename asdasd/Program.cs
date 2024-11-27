@@ -1,4 +1,4 @@
-﻿Console.ForegroundColor = ConsoleColor.Cyan;
+﻿Console.ForegroundColor = ConsoleColor.Yellow;
 
 
 string nev = "Ákos";
